@@ -1,4 +1,4 @@
 # Git Subtree Demonstration
 
-Parent directory for demonstration of Git Subtrees
+Change the parent without changing any children
 
