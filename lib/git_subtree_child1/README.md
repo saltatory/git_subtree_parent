@@ -1,2 +1,3 @@
 # git_subtree_child1
-First git subtree child for demonstration
+
+Changing child 1 but not child 2 and not the parent
